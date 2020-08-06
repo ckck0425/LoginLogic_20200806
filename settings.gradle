@@ -1,0 +1,2 @@
+rootProject.name='LoginLogic_20200806'
+include ':app'
